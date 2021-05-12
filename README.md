@@ -38,3 +38,11 @@ Chat Window (Showing the music played by the user):
 
 ![chatroom2](https://user-images.githubusercontent.com/48278314/117931412-c590f600-b31c-11eb-81f4-dcfae78b75e7.png)
 
+
+
+
+Contact Page :
+
+![ss3](https://user-images.githubusercontent.com/48278314/117932312-d2621980-b31d-11eb-8ac1-23d4bc59a2cb.JPG)
+
+
